@@ -3,9 +3,9 @@
 
 # My Information
 
-* Name: Elizabeth Warren
+##* Name: Elizabeth Warren
 
-* CVID: 1436890
+##* CVID: 1436890
 
-* Email: ewarren5@student.rccd.edu
+##* Email: ewarren5@student.rccd.edu
 
