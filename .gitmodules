@@ -1,0 +1,3 @@
+[submodule "lab-demos"]
+	path = lab-demos
+	url = https://github.com/2023-fall-puhp-rcc-cis-csc-11/lab-demos.git
